@@ -3,7 +3,6 @@ I completed an intensive C language course, which spanned approximately ten hour
 This course ran from July 28th to August 17th, 2024, and was designed to take learners from the fundamentals of C to a more advanced level of understanding.
 
 Course Timeline:
-
 Chapter 1: Variables, Constraints, and Keywords - Completed on July 28th, 2024
 
 Chapter 2: Instructions and Operators - Completed on July 30th, 2024
@@ -31,7 +30,6 @@ Chapter 11: Dynamic Memory Allocation - Completed on August 16th, 2024
 Project 2: Snake, Water, Gun Game - Completed on August 17th, 2024
 
 Key Learnings:
-
 Mastery of basic to advanced C programming concepts, learned through the C language tutorial by 
 CodeWithHarry on YouTube.
 
